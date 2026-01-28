@@ -33,11 +33,6 @@ Android Kernel Builder and Bukkit Developer working on low-level Android develop
 - **[zapp-messenger](https://github.com/cyberc3dr/zapp-messenger)** - Messenger application (ktor, cbor, tcp)
 
 ## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyberc3dr&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyberc3dr&show_icons=true&theme=radical&hide_border=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cyberc3dr&layout=compact&theme=radical&hide_border=true)
-  
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cyberc3dr&layout=compact&theme=radical&hide_border=true)
