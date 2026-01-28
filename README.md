@@ -1,11 +1,5 @@
 # Hi there, I'm cyberc3dr 👋
 
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=cyberc3dr&color=blueviolet)
-  
-</div>
-
 ## 🚀 About Me
 
 Android Kernel Builder and Bukkit Developer working on low-level Android development and server plugins.
