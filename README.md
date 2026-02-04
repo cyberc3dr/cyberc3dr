@@ -40,9 +40,10 @@ See **[nGKI_Kernel_Spacewar](https://github.com/cyberc3dr/nGKI_Kernel_Spacewar)*
 - **[zapret-pocket](https://github.com/cyberc3dr/zapret-pocket)** - Personal fork with improvements
 - **[zapp-messenger](https://github.com/cyberc3dr/zapp-messenger)** - Messenger application (ktor, cbor, tcp)
 
-## 📊 GitHub Stats
 <!--
+## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyberc3dr&show_icons=true&theme=radical&hide_border=true&count_private=true)
--->
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cyberc3dr&layout=compact&theme=radical&hide_border=true)
+
+-->
