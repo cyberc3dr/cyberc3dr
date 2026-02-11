@@ -35,6 +35,14 @@ Android Kernel Builder and Bukkit Developer working on low-level Android develop
 All my forks doesn't require try umount port from older SuSFS.
 See **[nGKI_Kernel_Spacewar](https://github.com/cyberc3dr/nGKI_Kernel_Spacewar)**
 
+### 🔷 Telegram Crypto Projects
+- **[slivacheques v1](https://github.com/cyberc3dr/HikkaMods)** - Hikka userbot module
+- **[slivacheques v2](https://github.com/cyberc3dr/slivachequesv2)** - Telethon based userbot
+- **[slivacheques v3](https://github.com/cyberc3dr/slivacheques)** - Kotlin userbot (abandoned)
+- **slivacheques v4**:
+  - **[backend + client](https://github.com/cyberc3dr/chequeman)** - Spring boot project
+  - **[cheque collector](https://github.com/cyberc3dr/slivacheques-userbot)** - Telethon userbot
+
 ### 🔷 Other Projects
 
 - **[zapret-pocket](https://github.com/cyberc3dr/zapret-pocket)** - Personal fork with improvements
