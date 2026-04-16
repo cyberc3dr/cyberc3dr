@@ -26,6 +26,7 @@ Android Kernel Builder and Bukkit Developer working on low-level Android develop
 - **[android_kernel_samsung_universal7880](https://github.com/cyberc3dr/android_kernel_samsung_universal7880)** - Custom kernel for Samsung A5/A7 2017 series
 - **[android_kernel_xiaomi_onclite](https://github.com/cyberc3dr/android_kernel_xiaomi_onclite)** - Custom kernel for Xiaomi Onclite (Redmi 7)
 - **[android-kernel-actions](https://github.com/cyberc3dr/android-kernel-actions)** - GitHub Actions workflow for automated Android kernel building
+- **[vpnhide-driver](https://github.com/cyberc3dr/vpnhide-driver)** - Kernel driver (5.4) to hide VPN connections on Android. See **[vpnhide](https://github.com/okhsunrog/vpnhide)**
 
 ### 🔷 NonGKI KernelSU drivers (susfs) - tested on 5.4
 - **[KernelSU rsuntk](https://github.com/cyberc3dr/KernelSU)** - Personal fork with upstream susfs
