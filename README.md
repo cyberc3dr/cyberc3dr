@@ -35,6 +35,10 @@ Android Kernel Builder and Bukkit Developer working on low-level Android develop
 All my forks doesn't require try umount port from older SuSFS.
 See **[nGKI_Kernel_Spacewar](https://github.com/cyberc3dr/nGKI_Kernel_Spacewar)**
 
+Update 16.04.2026:
+
+I recommend using **[ReSukiSU](https://github.com/ReSukiSU/ReSukiSU)** with **[KowSU Manager](https://t.me/kowsu_build)**
+
 ### 🔷 Telegram Crypto Projects
 - **[slivacheques v1](https://github.com/cyberc3dr/HikkaMods)** - Hikka userbot module
 - **[slivacheques v2](https://github.com/cyberc3dr/slivachequesv2)** - Telethon based userbot
