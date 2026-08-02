@@ -20,25 +20,25 @@ Android Kernel Builder and Bukkit Developer working on low-level Android develop
 
 ## 📦 Featured Repositories
 
-### 🔷 Android Kernel Projects
+### 🔷 Android Projects
 
-- **[nGKI_Kernel_Spacewar](https://github.com/cyberc3dr/nGKI_Kernel_Spacewar)** - NonGKI kernel building for Nothing Phone (1)
-- **[android_kernel_samsung_universal7880](https://github.com/cyberc3dr/android_kernel_samsung_universal7880)** - Custom kernel for Samsung A5/A7 2017 series
+- **[nGKI_Kernel_Build](https://github.com/cyberc3dr/nGKI_Kernel_Build)** - NonGKI kernel building
+- **[crdroid-a5y17lte](https://github.com/crdroid-a5y17lte)** - crDroid 7 for Galaxy A5/A7 2017, Xiaomi whyred
 - **[android_kernel_xiaomi_onclite](https://github.com/cyberc3dr/android_kernel_xiaomi_onclite)** - Custom kernel for Xiaomi Onclite (Redmi 7)
 - **[android-kernel-actions](https://github.com/cyberc3dr/android-kernel-actions)** - GitHub Actions workflow for automated Android kernel building
 - **[vpnhide-driver](https://github.com/cyberc3dr/vpnhide-driver)** - Kernel driver (5.4) to hide VPN connections on Android. See **[vpnhide](https://github.com/okhsunrog/vpnhide)**
 
-### 🔷 NonGKI KernelSU drivers (susfs) - tested on 5.4
+### 🔷 NonGKI KernelSU drivers
+- KSU+SUSFS (kernel 4.4+): use **[ReSukiSU](https://github.com/ReSukiSU/ReSukiSU)**
+- KSU (kernel 3.0+): use **[xxksu](https://github.com/backslashxx/KernelSU)**
+- Manager: **[KowSU](https://t.me/kowsu_build)**
+<details>
+  <summary>Deprecated:</summary>
+
 - **[KernelSU rsuntk](https://github.com/cyberc3dr/KernelSU)** - Personal fork with upstream susfs
 - **[KernelSU-Next](https://github.com/cyberc3dr/KernelSU-Next)** - Personal fork (pershoot's susfs)
 - **[Wild_KSU](https://github.com/cyberc3dr/Wild_KSU)** - Personal fork with non-gki support
-
-All my forks doesn't require try umount port from older SuSFS.
-See **[nGKI_Kernel_Spacewar](https://github.com/cyberc3dr/nGKI_Kernel_Spacewar)**
-
-Update 16.04.2026:
-
-I recommend using **[ReSukiSU](https://github.com/ReSukiSU/ReSukiSU)** with **[KowSU Manager](https://t.me/kowsu_build)**
+</details>
 
 ### 🔷 Telegram Crypto Projects
 - **[slivacheques v1](https://github.com/cyberc3dr/HikkaMods)** - Hikka userbot module
