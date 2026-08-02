@@ -24,6 +24,7 @@ Android Kernel Builder and Bukkit Developer working on low-level Android develop
 
 - **[nGKI_Kernel_Build](https://github.com/cyberc3dr/nGKI_Kernel_Build)** - NonGKI kernel building
 - **[crdroid-a5y17lte](https://github.com/crdroid-a5y17lte)** - crDroid 7 for Galaxy A5/A7 2017, Xiaomi whyred
+- **[ximi-taoyao-test](https://github.com/ximi-taoyao-test)** - Resources for building roms for Xiaomi 12 Lite
 - **[android_kernel_xiaomi_onclite](https://github.com/cyberc3dr/android_kernel_xiaomi_onclite)** - Custom kernel for Xiaomi Onclite (Redmi 7)
 - **[android-kernel-actions](https://github.com/cyberc3dr/android-kernel-actions)** - GitHub Actions workflow for automated Android kernel building
 - **[vpnhide-driver](https://github.com/cyberc3dr/vpnhide-driver)** - Kernel driver (5.4) to hide VPN connections on Android. See **[vpnhide](https://github.com/okhsunrog/vpnhide)**
