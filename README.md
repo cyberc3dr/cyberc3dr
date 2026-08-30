@@ -36,7 +36,7 @@ Android Kernel Builder and Bukkit Developer working on low-level Android develop
 ### 🔷 NonGKI KernelSU drivers
 - KSU+SUSFS (kernel 4.4+): use **[ReSukiSU](https://github.com/ReSukiSU/ReSukiSU)**
 - KSU (kernel 3.0+): use **[xxksu](https://github.com/backslashxx/KernelSU)**
-- xxKSU + SUSFS: apply **[susfs integration](https://github.com/midori01/gki_ksu_workflow/blob/main/.github/patches/11_enable_susfs_for_ksu.patch)**
+- xxKSU + SUSFS: apply **[susfs integration](https://github.com/midori01/KernelSU/commit/xx.patch)**
 - Manager: **[KowSU](https://t.me/kowsu_build)**
 <details>
   <summary>Deprecated:</summary>
